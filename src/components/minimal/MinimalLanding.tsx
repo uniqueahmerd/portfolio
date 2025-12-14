@@ -383,7 +383,7 @@ function SectionContent({
         company: "Kaduna Polytehnic",
         location: "Kaduna State, Nigeria",
         description:
-          "Relevant coursework: Data Structures, Algorithms, Databases, Web Development. Hands-on projects with Node.js and React.",
+          "Computer Engineering students specialize in designing, developing, and optimizing computer systems and hardware-software integration. They gain knowledge in programming, electronics, networking, and computer architecture to create efficient and innovative computing solutions.",
       },
       {
         year: "2024 - Present",
