@@ -1,7 +1,7 @@
 import { FaLinkedinIn, FaXTwitter, FaGithub } from "react-icons/fa6"
 import { MdOutlineMail } from "react-icons/md"
 
-const ahmadImage = "/assets/Images/ahmadImage.jpeg"
+const ahmadImage = "/assets/images/ahmadImage.jpeg"
 const ahmadName = "Ahmad Usman"
 const ahmadShortName = "Ahmad"
 const ahmadBio = "Software Developer"

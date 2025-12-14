@@ -58,7 +58,7 @@ T
 ## Contact
 
 - **Email**: ahmadusman1809.com
-<!-- - **X/Twitter**: [@apo_bozdag](https://x.com/apo_bozdag) -->
+- **X/Twitter**: [@apo_bozdag](https://x.com/Uniqueahmerd10)
 - **LinkedIn**: [@Ahmad Usman](https://linkedin.com/in/ahmad-usman-dev)
 - **GitHub**: [@uniqueahmerd](https://github.com/uniqueahmerd)
 
