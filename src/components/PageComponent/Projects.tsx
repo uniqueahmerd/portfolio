@@ -1,6 +1,6 @@
 "use client"
 import { projects } from "@/data/Common/data"
-import ProjectBox from "../ProjectBox"
+// import ProjectBox from "../ProjectBox"
 // import SectionTitle from "../SectionTitle"
 import { useState } from "react"
 import {
@@ -17,25 +17,25 @@ const Projects = () => {
   return (
     <div id="projects" className="flex flex-col gap-3">
       {/* <SectionTitle title="Projects" /> */}
-      <div className=" flex flex-col md:gap-2.5 gap-3.5">
+      {/* <div className=" flex flex-col md:gap-2.5 gap-3.5">
         {visibleProjects.map((project) => (
           // <AnimatedWrapper
           //   key={project.id}
           //   delay={project.id === 1 ? delayValue : (delayValue += 0.075)}
           // >
-            <ProjectBox
-              title={project.title}
-              img={project.img}
-              content={project.content}
-              status={project.status}
-              skill={project.skill}
-              url={project.url || ""}
-              github={project.github || ""}
-              preview={project.preview || ""}
-            />
+            // <ProjectBox
+            //   title={project.title}
+            //   img={project.img}
+            //   content={project.content}
+            //   status={project.status}
+            //   skill={project.skill}
+            //   url={project.url || ""}
+            //   github={project.github || ""}
+            //   preview={project.preview || ""}
+            // />
           // </AnimatedWrapper>
         ))}
-      </div>
+      </div> */}
       </div>
       )}
       {/* <div>
