@@ -301,7 +301,7 @@ function SectionContent({
 
         <div className="flex flex-wrap gap-6 text-sm" style={{ color: COLORS.text }}>
           <a
-            href="https://x.com/apo_bozdag"
+            href="https://x.com/Uniqueahmerdy10"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors duration-200"
