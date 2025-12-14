@@ -278,12 +278,12 @@ function SectionContent({
   if (section === "home") {
     return (
       <div className="space-y-8">
-        <motion.img
+        <img
           src={ahmadImage}
           alt="Ahmad Usman"
-          initial={{ opacity: 0, scale: 0.9 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.4 }}
+          // initial={{ opacity: 0, scale: 0.9 }}
+          // animate={{ opacity: 1, scale: 1 }}
+          // transition={{ duration: 0.4 }}
           className="w-48 h-48 rounded-lg object-cover mb-4 border-2"
           style={{ borderColor: COLORS.accent }}
         />
