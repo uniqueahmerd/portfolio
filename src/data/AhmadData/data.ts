@@ -19,7 +19,7 @@ const ahmadLink = [
   {
     id: 1,
     name: "X",
-    link: "https://x.com/apo_bozdag",
+    link: "https://x.com/Uniqueahmerdy10",
     icon: FaXTwitter,
   },
   {
@@ -44,7 +44,7 @@ const ahmadContactLink = [
   {
     id: 1,
     name: "X",
-    link: "https://x.com/apo_bozdag",
+    link: "https://x.com/Uniqueahmerdy10",
     icon: FaXTwitter,
   },
   {
@@ -71,7 +71,7 @@ const ahmadFooterLink = [
   {
     id: 1,
     name: "X",
-    link: "https://x.com/apo_bozdag",
+    link: "https://x.com/Uniqueahmerdy10",
     icon: FaXTwitter,
   },
   {
